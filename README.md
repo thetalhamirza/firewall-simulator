@@ -67,6 +67,10 @@ IP: 192.168.1.5, Action: Block, ProcessID: 8723  (Red)
 ...
 ```
 
+## Credits
+
+This project was created following a tutorial by faanross. I'll soon be making my own contributions to it ;)
+
 ## License
 
 This project is for educational purposes and is released under the MIT License.
